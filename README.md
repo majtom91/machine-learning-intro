@@ -11,3 +11,9 @@ The goal was to build a linear regression model, evaluate its performance using 
 Logistic regression model for customer churn
 
 This pr contains an experimental logistic regression model, to evaluater performance using accuracy score and confusion matrix
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Decision tree model for heart diease prediction in patient based on the heart diease dataset
+
+This pr fix repo structure
