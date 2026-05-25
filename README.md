@@ -17,3 +17,10 @@ This pr contains an experimental logistic regression model, to evaluater perform
 Decision tree model for heart diease prediction in patient based on the heart diease dataset
 
 This pr fix repo structure
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+Random Forest Supply Chain Pricing Prediction
+
+Built a Random Forest regression model to predict product sale prices using product attributes. The project explored feature engineering, hyperparameter tuning with GridSearchCV, leakage detection, and model comparison to understand the impact of dominant features on predictive performance.
